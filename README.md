@@ -52,11 +52,9 @@ Proyek LingoNote dikerjakan oleh satu kelompok yang terdiri dari beberapa anggot
   Edit atau hapus catatan langsung dari menu pop-up.
 
   ## 📝 Storyboard
-
-<img src="https://github.com/user-attachments/assets/your-image-id/storyboard_lingonote_resized.jpg" width="35%" height="35%">
+![Storyboard LingoNote_page-0001](https://github.com/user-attachments/assets/f1b8f5b7-8550-434b-915e-9ce98d2d3efa)
 
 
 ## 💻 UI/UX Preview
 ![Desain LingoNote](https://github.com/user-attachments/assets/7912017c-233c-4d83-8197-cf7eba24def1)
-
 
