@@ -74,4 +74,4 @@ Aplikasi ini dirancang untuk memudahkan pengguna dalam menerjemahkan teks, perca
 Proyek ini dikerjakan secara kolaboratif, dengan pembagian tugas yang mencakup berbagai aspek, mulai dari perancangan UI/UX dan tata letak aplikasi, pengelolaan database dan fitur CRUD, input dan pengenalan bahasa, pengembangan fitur penerjemahan, hingga pengelolaan data melalui Firebase dan CMS.
 
 ## 🙏 Ucapan Terima Kasih
-Kami mengucapkan terima kasih kepada Dosen pengampu atas Dukungan dan ilmu yang diberikan karena sangat berarti bagi kami dalam menyelesaikan tugas ini dengan baik. Terima kasih telah meluangkan waktu untuk melihat proyek ini 🙏❤️.
+Kami mengucapkan terima kasih kepada Dosen pengampu atas Dukungan dan ilmu yang diberikan karena sangat berarti bagi kami dalam menyelesaikan tugas ini dengan baik. Terima kasih telah meluangkan waktu untuk melihat proyek kami 🙏❤️.
