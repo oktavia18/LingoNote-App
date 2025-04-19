@@ -8,7 +8,7 @@
 | **Ananda Rahmadhani**        | 312310461     | Database & CRUD                |
 | **Raditya Tansy Lizara**     | 312310454     | Input & Pengenalan Bahasa          |
 | **Lutpiah Ainus Shiddik**    | 312310474     | Language Translation Developer                   |
-| **Nurul Aisyah**             | 312310476     | web CMS & pengelolaan data Firebase |
+| **Nurul Aisyah**             | 312310476     | Web CMS & pengelolaan data Firebase |
 | **Oktavia Rizkha Kurniawati**| 312310509     | Desain UI/UX & Layout              |
 
 
@@ -63,7 +63,7 @@ Aplikasi ini dirancang untuk memudahkan pengguna dalam menerjemahkan teks, perca
 - **Responsif & Cepat**
 - **Privasi Terjaga**
 
-## ⚙️ Cara Kerja Aplikasi LingoNote 
+## ⚙️ Cara Kerja Aplikasi
 1. Pengguna memasukkan teks yang ingin diterjemahkan.
 2. Memilih bahasa tujuan dari dropdown.
 3. Teks dikirim ke API terjemahan dan hasilnya ditampilkan.
@@ -71,4 +71,4 @@ Aplikasi ini dirancang untuk memudahkan pengguna dalam menerjemahkan teks, perca
 5. Catatan bisa dilihat, diedit, atau dihapus kapan saja.
 
 # 👥 Kontribusi
-Proyek ini dikerjakan secara kolaboratif, dengan pembagian tugas yang mencakup berbagai aspek, mulai dari perancangan UI/UX dan tata letak aplikasi,pengelolaan database dan fitur CRUD, input dan pengenalan bahasa, pengembangan fitur penerjemahan, hingga pengelolaan data melalui Firebase dan CMS.
+Proyek ini dikerjakan secara kolaboratif, dengan pembagian tugas yang mencakup berbagai aspek, mulai dari perancangan UI/UX dan tata letak aplikasi, pengelolaan database dan fitur CRUD, input dan pengenalan bahasa, pengembangan fitur penerjemahan, hingga pengelolaan data melalui Firebase dan CMS.
