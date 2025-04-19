@@ -14,15 +14,11 @@
 
 ## Selamat Datang di Aplikasi **LingoNote**!
 
-# Aplikasi LingoNote
+# 📱 LingoNote 
 
 Aplikasi ini dirancang untuk memudahkan pengguna dalam menerjemahkan teks, percakapan, atau catatan dalam berbagai bahasa, memberikan akses ke fitur terjemahan yang cepat dan praktis, lengkap dengan fungsi penyimpanan, pengelolaan catatan, serta pilihan bahasa yang beragam untuk pengalaman pengguna yang lebih fleksibel dan efisien.
 
-# 👥 Kontribusi
-Proyek LingoNote dikerjakan oleh satu kelompok yang terdiri dari beberapa anggota dengan pembagian tugas yang kolaboratif, mulai dari desain UI, logika aplikasi, hingga pengujian dan dokumentasi.
-
-
-## Tujuan Aplikasi
+## 🧠 Tujuan Aplikasi
 
 1. **Mempermudah Komunikasi Antar Bahasa**
    membantu pengguna untuk berkomunikasi secara lebih efisien meskipun menggunakan bahasa yang berbeda. 
@@ -55,6 +51,9 @@ Proyek LingoNote dikerjakan oleh satu kelompok yang terdiri dari beberapa anggot
 ![Storyboard LingoNote_page-0001](https://github.com/user-attachments/assets/f1b8f5b7-8550-434b-915e-9ce98d2d3efa)
 
 
-## 💻 UI/UX Preview
+## 💻 Desain UI/UX Preview
 ![Desain LingoNote](https://github.com/user-attachments/assets/7912017c-233c-4d83-8197-cf7eba24def1)
+
+# 👥 Kontribusi
+Proyek ini dikerjakan secara kolaboratif oleh satu kelompok, dengan pembagian tugas yang mencakup berbagai aspek, mulai dari perancangan UI, pengembangan logika aplikasi, hingga proses pengujian dan penyusunan dokumentasi.
 
