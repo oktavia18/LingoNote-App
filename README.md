@@ -54,6 +54,7 @@ Aplikasi ini dirancang untuk memudahkan pengguna dalam menerjemahkan teks, perca
 ## 💻 Desain UI/UX Preview
 ![Desain LingoNote](https://github.com/user-attachments/assets/7912017c-233c-4d83-8197-cf7eba24def1)
 
+
 # 👥 Kontribusi
 Proyek ini dikerjakan secara kolaboratif oleh satu kelompok, dengan pembagian tugas yang mencakup berbagai aspek, mulai dari perancangan UI, pengembangan logika aplikasi, hingga proses pengujian dan penyusunan dokumentasi.
 
