@@ -44,14 +44,25 @@ Aplikasi ini dirancang untuk memudahkan pengguna dalam menerjemahkan teks, perca
 - **Pop-Up Aksi Cepat**  
   Edit atau hapus catatan langsung dari menu pop-up.
 
-  ## 📝 Storyboard
+## 🔧 Teknologi yang Digunakan
+- **Firebase**  : Untuk penyimpanan catatan secara real-time dan autentikasi pengguna.
+- **Framework Web CMS** : Mempermudah pengelolaan konten aplikasi secara dinamis.
+- **Library Terjemahan Bahasa** : Menggunakan API terjemahan untuk hasil yang cepat dan akurat.
+- **UI/UX Tools** : Figma atau Adobe XD untuk desain antarmuka yang ramah pengguna.
+
+## 📝 Storyboard
 ![Storyboard LingoNote_page-0001](https://github.com/user-attachments/assets/f1b8f5b7-8550-434b-915e-9ce98d2d3efa)
 
 
 ## 💻 Desain UI/UX Preview
 ![Desain LingoNote](https://github.com/user-attachments/assets/7912017c-233c-4d83-8197-cf7eba24def1)
 
-
+## 🌍 Kelebihan LingoNote
+- **User-Friendly Interface**
+- **Multi-Platform**
+- **Responsif & Cepat**
+- **Privasi Terjaga**
+  
 # 👥 Kontribusi
 Proyek ini dikerjakan secara kolaboratif oleh satu kelompok, dengan pembagian tugas yang mencakup berbagai aspek, mulai dari perancangan UI, pengembangan logika aplikasi, hingga proses pengujian dan penyusunan dokumentasi.
 
