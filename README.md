@@ -22,13 +22,10 @@ Aplikasi ini dirancang untuk memudahkan pengguna dalam menerjemahkan teks, perca
 
 1. **Mempermudah Komunikasi Antar Bahasa**
    membantu pengguna untuk berkomunikasi secara lebih efisien meskipun menggunakan bahasa yang berbeda. 
-
 2. **Membantu Proses Belajar Bahasa Asing**
    Lingonote tidak hanya berfungsi sebagai alat terjemahan, tetapi juga mendukung proses belajar bahasa asing.
-
 3. **Meningkatkan Produktivitas Global**
    Dengan memfasilitasi komunikasi yang lebih mudah antarbahasa, Lingonote memungkinkan tim atau individu dari berbagai negara untuk bekerja bersama tanpa hambatan bahasa. 
-
 4. **Mendukung Mobilitas Global**
    Lingonote membantu individu yang bepergian atau bekerja di luar negeri untuk beradaptasi dengan lingkungan baru.
 
