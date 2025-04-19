@@ -48,7 +48,7 @@ Aplikasi ini dirancang untuk memudahkan pengguna dalam menerjemahkan teks, perca
 - **Firebase**  : Untuk penyimpanan catatan secara real-time dan autentikasi pengguna.
 - **Framework Web CMS** : Mempermudah pengelolaan konten aplikasi secara dinamis.
 - **Library Terjemahan Bahasa** : Menggunakan API terjemahan untuk hasil yang cepat dan akurat.
-- **UI/UX Tools** : Figma atau Adobe XD untuk desain antarmuka yang ramah pengguna.
+- **UI/UX Tools** : Figma untuk desain antarmuka yang ramah pengguna.
 
 ## 📝 Storyboard
 ![Storyboard LingoNote_page-0001](https://github.com/user-attachments/assets/f1b8f5b7-8550-434b-915e-9ce98d2d3efa)
@@ -62,7 +62,13 @@ Aplikasi ini dirancang untuk memudahkan pengguna dalam menerjemahkan teks, perca
 - **Multi-Platform**
 - **Responsif & Cepat**
 - **Privasi Terjaga**
-  
-# 👥 Kontribusi
-Proyek ini dikerjakan secara kolaboratif oleh satu kelompok, dengan pembagian tugas yang mencakup berbagai aspek, mulai dari perancangan UI, pengembangan logika aplikasi, hingga proses pengujian dan penyusunan dokumentasi.
 
+## ⚙️ Cara Kerja Aplikasi LingoNote 
+1. Pengguna memasukkan teks yang ingin diterjemahkan.
+2. Memilih bahasa tujuan dari dropdown.
+3. Teks dikirim ke API terjemahan dan hasilnya ditampilkan.
+4. Pengguna dapat menyimpan hasil ke database Firebase.
+5. Catatan bisa dilihat, diedit, atau dihapus kapan saja.
+
+# 👥 Kontribusi
+Proyek ini dikerjakan secara kolaboratif, dengan pembagian tugas yang mencakup berbagai aspek, mulai dari perancangan UI/UX dan tata letak aplikasi,pengelolaan database dan fitur CRUD, input dan pengenalan bahasa, pengembangan fitur penerjemahan, hingga pengelolaan data melalui Firebase dan CMS.
