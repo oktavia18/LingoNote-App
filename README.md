@@ -70,6 +70,12 @@ Aplikasi ini dirancang untuk memudahkan pengguna dalam menerjemahkan teks, perca
 4. Pengguna dapat menyimpan hasil ke database Firebase.
 5. Catatan bisa dilihat, diedit, atau dihapus kapan saja.
 
+## Link Project
+- **Repository GitHub**: [LingoNote App - GitHub](https://github.com/oktavia18/LingoNote-App.git)
+- **Trello SCRUM Board**: [LingoNote - Trello](https://trello.com/b/JHPXT9o0/project-mobile)
+- **Website**: [LingoNote- Web](https://lingonote.netlify.app/)
+- **YouTube**: [LingoNote- Youtube](https://youtu.be/OQHKeUiJoJI?si=8j1hElyFnB2sxD3k)
+  
 ## 👥 Kontribusi
 Proyek ini dikerjakan secara kolaboratif, dengan pembagian tugas yang mencakup berbagai aspek, mulai dari perancangan UI/UX dan tata letak aplikasi, pengelolaan database dan fitur CRUD, input dan pengenalan bahasa, pengembangan fitur penerjemahan, hingga pengelolaan data melalui Firebase dan CMS.
 
